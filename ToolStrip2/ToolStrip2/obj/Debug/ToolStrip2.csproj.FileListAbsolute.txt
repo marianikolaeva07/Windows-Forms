@@ -1,0 +1,23 @@
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.exe
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.AssemblyReference.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.Form1.resources
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.Properties.Resources.resources
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.GenerateResource.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.CoreCompileInputs.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.exe
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\Практические\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.exe
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.exe.config
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\bin\Debug\ToolStrip2.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.Form1.resources
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\ToolStrip2\ToolStrip2\obj\Debug\ToolStrip2.pdb

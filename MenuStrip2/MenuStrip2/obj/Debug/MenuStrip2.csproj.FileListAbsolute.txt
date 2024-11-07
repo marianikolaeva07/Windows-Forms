@@ -1,0 +1,20 @@
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe.config
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.pdb
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.AssemblyReference.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.Form1.resources
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.Properties.Resources.resources
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.GenerateResource.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.CoreCompileInputs.cache
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.exe
+H:\Мои документы\Информатика ЛР\ОАИП\2 семестр\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe.config
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.pdb
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.Form1.resources
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.exe
+C:\Users\User\OneDrive\Desktop\МЦК-ЧЭМК\2 курс\2 курс(флешка)\ОАИП\2 семестр практические\Практические\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.pdb
